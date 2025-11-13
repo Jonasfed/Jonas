@@ -1,10 +1,9 @@
-# about me.
+# about me. / Om meg.
 
-![DSC03457kopi](https://github.com/user-attachments/assets/0828155c-b40a-4e4e-bf24-510169b8dd60)
-
-
+Jeg heter Jonas Federley, jeg er 19 år og jobber på Indigo-IKT iks som lærling.
+Ting jeg driver med er lenger nede.
  
-[Jonas@Federley.lol](Federleyj@gmail.com)  C:\ Fastfetch -c all
+[Jonas@Federley.lol](Federleyj@gmail.com) C:\ Fastfetch -c all  
 ┌────────────Hardware  
 │ Host: Human 06  
 │ Brain: Human - integrated  
@@ -22,3 +21,12 @@
 │ Uptime: Unknwn  
 │ Date / Time: unknwn  
 └─────────────────────────────────────┘
+
+(fun twist on the normal "about me" formula / Morsom twist på vanelig "om meg" formelen)
+
+Det jeg driver med er:
+
+Brukerstøtte
+Serviceteknikk
+Serverdrift
+Nettverksdrift
